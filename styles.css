@@ -1,0 +1,54 @@
+/*FORM*/
+.acceso {
+    position: absolute;
+    right: 2%;
+    top: 5%;
+  }
+  
+
+/*HEADER*/
+
+.pageHeader {
+    padding: 5%;
+    text-align: left;
+    background: #570757;
+    color: white;
+    font-size: 100%;
+}
+
+div#pageTitle {
+    position: absolute;
+    left: 2%;
+    top: 2%;
+}
+
+div#pageDescription {
+    position: absolute;
+    left: 2%;
+    top: 10,5%;
+  }
+
+  /*BODY*/
+
+  body {
+    background-color: #FBDCFE;
+  }
+
+  .imagen {
+    position: absolute;
+    left: 3%;
+    width: 10%;
+    height: 25%;
+  }
+
+  /*FOOTER*/
+
+  footer {
+    background-color: #570757;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 5%;
+    color: white;
+    text-align: center;
+  }
