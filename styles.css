@@ -1,13 +1,15 @@
+
+
 /*FORM*/
-.acceso {
+/*.acceso {
     position: absolute;
     right: 2%;
     top: 5%;
   }
-  
+  */
 
 /*HEADER*/
-
+/*
 .pageHeader {
     padding: 5%;
     text-align: left;
@@ -28,9 +30,9 @@ div#pageDescription {
     left: 2%;
     top: 10,5%;
   }
-
+*/
   /*BODY*/
-
+/*
   body {
     background-color: #FBDCFE;
 
@@ -48,7 +50,7 @@ div#pageDescription {
     color: grey;
   }
 
-  .link { color: #FF0000; } /* CSS link color (red) */
+  .link { color: #FF0000; }
   .link:hover { color: #00FF00; }
   .imagen {
     position: absolute;
@@ -56,9 +58,9 @@ div#pageDescription {
     width: 10%;
     height: 25%;
   }
-
+*/
   /*FOOTER*/
-
+/*
   footer {
     background-color: #570757;
     position: absolute;
@@ -67,4 +69,4 @@ div#pageDescription {
     height: 5%;
     color: white;
     text-align: center;
-  }
+  }*/
