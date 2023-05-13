@@ -2,16 +2,29 @@ div#oradores {
   text-align: center;
 }
 
-
 .contenedor{
-  /*position: relative;*/
+  position: relative;
   display: inline-block;
   text-align: center;
 }
-.img-fluid {  
-  filter: brightness(40%); 
+
+.textoIntro {
+  position: relative;
+
+  transform: translate(20%, -550%);
 }
 
+h2 {
+  color: white;
+}
+
+p {
+  color: white;
+}
+
+.sombra {  
+  filter: brightness(40%); 
+}
 
 .centrado{
   position: absolute;
@@ -21,8 +34,53 @@ div#oradores {
   color: white;
 }
 
+.oradores_section {
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
 .formulario {
   position: center;
   padding-left: 20%;
   padding-right: 20%;
+}
+
+.contenido {
+  width: 100%;
+
+}
+
+.honolulu {
+    float: left;
+    position: relative;
+    width: 50%;
+    border: white solid 1px;
+    height: auto;
+}
+
+.bsAsDescripcion {
+
+    position: relative;
+    padding-bottom: 11%;
+    float: left;
+    width: 50%;  
+    border: white solid 1px;
+    height: auto;
+    background-color: #272727;
+    text-align: justify;
+
+}
+
+.buttom {
+  margin: 3%;
+}
+
+h3 {
+  margin: 3%;
+  color: white;
+}
+
+.texto {
+  margin: 3%;
+  color: white;
 }
