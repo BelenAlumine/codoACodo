@@ -8,18 +8,13 @@ div#oradores {
 
 .contenedor{
   position: relative;
-  /*display: inline-block;
-  text-align: center;*/
 }
 
 .textoIntro {
-  /*position: absolute;
-  /*transform: translate(20%, -550%);
-  width: 50%;
-  text-align: right;*/
   position: absolute; 
  top: 45%; 
  left: 0; 
+ top: 15%;
  width: 100%;
  width: 50%;
  align-items: right; 
