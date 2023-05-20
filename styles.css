@@ -9,7 +9,15 @@ div#oradores {
 .contenedor{
   position: relative;
 }
+/**/
+.card-img-overlay {
+  padding: 7rem;
+  margin-right: 3rem;
+  text-align: right;
+  overflow: hidden;
+}
 
+/**/
 .textoIntro {
   position: absolute; 
  top: 45%; 
@@ -35,7 +43,7 @@ p {
   color: white;
 }
 
-.sombra {  
+.card-img {  
   filter: brightness(40%); 
 }
 
