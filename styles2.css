@@ -1,0 +1,58 @@
+/*NavBar*/
+header {
+    background-color: #272727
+  }
+  
+  .logo {  
+    max-width: 5%;
+    max-height: 5%;
+  }
+  
+  div#oradores {
+    text-align: center;
+  }
+  
+  .contenedor{
+    position: relative;
+  }
+  
+  /*Cuadros de descuentos*/
+  .card-title {
+    color: black;
+  }
+
+  .card-text {
+    color: black;
+  }
+
+  .titulo-tarjeta {
+    color: black;
+    text-align: center;
+  }
+
+  .cupones {
+    align-items: center;
+    position: relative;
+  }
+
+  .divisor {
+    text-align: center;
+  }
+
+  .forms {
+    padding-left: 10%;
+    padding-right: 20%;
+  }
+
+.card-section {
+  padding-left: 10%;
+  padding-right: 10%;
+}  
+
+.card-title {
+  text-align: center;
+}
+
+.card-text {
+  text-align: center;
+}

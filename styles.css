@@ -2,6 +2,11 @@ header {
   background-color: #272727
 }
 
+.logo {  
+  max-width: 5%;
+  max-height: 5%;
+}
+
 div#oradores {
   text-align: center;
 }
@@ -9,34 +14,11 @@ div#oradores {
 .contenedor{
   position: relative;
 }
-/**/
 .card-img-overlay {
   padding: 7rem;
   margin-right: 3rem;
   text-align: right;
   overflow: hidden;
-}
-
-/**/
-.textoIntro {
-  position: absolute; 
- top: 45%; 
- left: 0; 
- top: 15%;
- width: 100%;
- width: 50%;
- align-items: right; 
-}
-
-.logo {
-  
-  max-width: 5%;
-  max-height: 5%;
-}
-
-
-.ConfTitulo {
-  color: white;
 }
 
 p {
