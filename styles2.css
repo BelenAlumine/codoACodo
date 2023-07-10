@@ -1,5 +1,5 @@
 /*NavBar*/
-header {
+  header {
     background-color: #272727
   }
   
@@ -36,7 +36,7 @@ header {
   }
 
   .divisor {
-    text-align: center;
+    align-items: center;
   }
 
   .forms {
@@ -44,15 +44,20 @@ header {
     padding-right: 20%;
   }
 
-.card-section {
-  padding-left: 10%;
-  padding-right: 10%;
-}  
+  .card-section {
+    padding-left: 10%;
+    padding-right: 10%;
+  }  
+  
+  .card-title {
+    text-align: center;
+  }
+  
+  .card-text {
+    text-align: center;
+  }
 
-.card-title {
-  text-align: center;
-}
-
-.card-text {
-  text-align: center;
-}
+  .botones {
+    position: absolute;
+    align-items: center;
+  }
